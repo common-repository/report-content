@@ -1,0 +1,570 @@
+# Copyright (C) 2019 Hassan Akhtar
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Report Content 1.7\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/report-content\n"
+"POT-Creation-Date: 2019-05-31 05:35:41+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: inc/class-wprc-list-table.php:125
+msgid "List View"
+msgstr ""
+
+#: inc/class-wprc-list-table.php:126
+msgid "Excerpt View"
+msgstr ""
+
+#: inc/class-wprc-list-table.php:464
+msgid "Select bulk action"
+msgstr ""
+
+#: inc/class-wprc-list-table.php:466
+msgid "Bulk Actions"
+msgstr ""
+
+#: inc/class-wprc-list-table.php:476
+msgid "Apply"
+msgstr ""
+
+#: inc/class-wprc-list-table.php:524 inc/class-wprc-list-table.php:878
+msgid "1 item"
+msgid_plural "%s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-wprc-list-table.php:543
+msgid "Go to the first page"
+msgstr ""
+
+#: inc/class-wprc-list-table.php:550
+msgid "Go to the previous page"
+msgstr ""
+
+#: inc/class-wprc-list-table.php:559
+msgid "Select Page"
+msgstr ""
+
+#: inc/class-wprc-list-table.php:560
+msgid "Current page"
+msgstr ""
+
+#: inc/class-wprc-list-table.php:570
+msgid "Go to the next page"
+msgstr ""
+
+#: inc/class-wprc-list-table.php:577
+msgid "Go to the last page"
+msgstr ""
+
+#: inc/class-wprc-list-table.php:638
+msgid "Select All"
+msgstr ""
+
+#: inc/class-wprc-list-table.php:853
+msgid "No items found."
+msgstr ""
+
+#: inc/class-wprc-list-table.php:1030
+msgid "Filter by date"
+msgstr ""
+
+#: inc/class-wprc-list-table.php:1032
+msgid "All dates"
+msgstr ""
+
+#: inc/class-wprc-list-table.php:1046
+#. translators: 1: month name, 2: 4-digit year
+msgid "%1$s %2$d"
+msgstr ""
+
+#: inc/class-wprc-list-table.php:1094
+msgid "%s pending"
+msgstr ""
+
+#: inc/class-wprc-table.php:38
+msgid "Post Not Found"
+msgstr ""
+
+#: inc/class-wprc-table.php:63
+msgid "Mark as resolved"
+msgstr ""
+
+#: inc/class-wprc-table.php:64
+msgid "Delete"
+msgstr ""
+
+#: inc/class-wprc-table.php:104 inc/meta-boxes.php:58
+msgid "Issue"
+msgstr ""
+
+#: inc/class-wprc-table.php:105
+msgid "Status"
+msgstr ""
+
+#: inc/class-wprc-table.php:106 inc/meta-boxes.php:59 inc/options-panel.php:79
+#: inc/options-panel.php:96
+msgid "Details"
+msgstr ""
+
+#: inc/class-wprc-table.php:107
+msgid "Time"
+msgstr ""
+
+#: inc/class-wprc-table.php:108
+msgid "Reporter"
+msgstr ""
+
+#: inc/class-wprc-table.php:109
+msgid "Post"
+msgstr ""
+
+#: inc/meta-boxes.php:22 report-content.php:376
+msgid "Post Reports"
+msgstr ""
+
+#: inc/meta-boxes.php:33
+msgid "No reports found."
+msgstr ""
+
+#: inc/options-panel.php:10
+msgid "Report Settings"
+msgstr ""
+
+#: inc/options-panel.php:11
+msgid "Settings"
+msgstr ""
+
+#: inc/options-panel.php:38
+msgid "Report Content Settings"
+msgstr ""
+
+#: inc/options-panel.php:51
+msgid "Like the plugin?"
+msgstr ""
+
+#: inc/options-panel.php:53
+msgid "Leave a review"
+msgstr ""
+
+#: inc/options-panel.php:71
+msgid "Active Fields"
+msgstr ""
+
+#: inc/options-panel.php:72
+msgid "Fields that will appear on the report form"
+msgstr ""
+
+#: inc/options-panel.php:76 inc/options-panel.php:93
+msgid "Reason"
+msgstr ""
+
+#: inc/options-panel.php:77 inc/options-panel.php:94
+msgid "Name"
+msgstr ""
+
+#: inc/options-panel.php:78 inc/options-panel.php:95
+msgid "Email"
+msgstr ""
+
+#: inc/options-panel.php:88
+msgid "Required Fields"
+msgstr ""
+
+#: inc/options-panel.php:89
+msgid "Fields that are required"
+msgstr ""
+
+#: inc/options-panel.php:105
+msgid "Issues"
+msgstr ""
+
+#: inc/options-panel.php:106
+msgid "Add one entry per line. These issues will appear in the form of a dropdown."
+msgstr ""
+
+#: inc/options-panel.php:116
+msgid "Slide Down Button Text"
+msgstr ""
+
+#: inc/options-panel.php:127
+msgid "Submit Button Text"
+msgstr ""
+
+#: inc/options-panel.php:138
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/options-panel.php:139
+msgid "Select a scheme for the form"
+msgstr ""
+
+#: inc/options-panel.php:143
+msgid "Yellow"
+msgstr ""
+
+#: inc/options-panel.php:144
+msgid "Red"
+msgstr ""
+
+#: inc/options-panel.php:145
+msgid "Blue"
+msgstr ""
+
+#: inc/options-panel.php:146
+msgid "Green"
+msgstr ""
+
+#: inc/options-panel.php:155
+msgid "Add the report form"
+msgstr ""
+
+#: inc/options-panel.php:158
+#. translators: 1: php template tag for displaying report form
+msgid ""
+"If you choose manual integration you will have to place %1$s in your theme "
+"files manually."
+msgstr ""
+
+#: inc/options-panel.php:164
+msgid "Automatically"
+msgstr ""
+
+#: inc/options-panel.php:165
+msgid "Manually"
+msgstr ""
+
+#: inc/options-panel.php:174
+msgid "Add the form"
+msgstr ""
+
+#: inc/options-panel.php:175
+msgid ""
+"Where do you want the form to be placed? This option will only work if you "
+"choose automatic integration"
+msgstr ""
+
+#: inc/options-panel.php:179
+msgid "Above post content"
+msgstr ""
+
+#: inc/options-panel.php:180
+msgid "Below post content"
+msgstr ""
+
+#: inc/options-panel.php:189
+msgid "Display form on"
+msgstr ""
+
+#: inc/options-panel.php:190
+msgid "Select the section of your website where you want this form to appear"
+msgstr ""
+
+#: inc/options-panel.php:194
+msgid "The whole site"
+msgstr ""
+
+#: inc/options-panel.php:195
+msgid "Posts"
+msgstr ""
+
+#: inc/options-panel.php:196
+msgid "Pages"
+msgstr ""
+
+#: inc/options-panel.php:197
+msgid "Posts & Pages"
+msgstr ""
+
+#: inc/options-panel.php:206
+msgid "On getting a new report send email to"
+msgstr ""
+
+#: inc/options-panel.php:207
+msgid "Select email recipients"
+msgstr ""
+
+#: inc/options-panel.php:211
+msgid "No one"
+msgstr ""
+
+#: inc/options-panel.php:212
+msgid "Post Author"
+msgstr ""
+
+#: inc/options-panel.php:213
+msgid "Blog administrator"
+msgstr ""
+
+#: inc/options-panel.php:214
+msgid "Author and administrator"
+msgstr ""
+
+#: inc/options-panel.php:223
+msgid "Sender's Name"
+msgstr ""
+
+#: inc/options-panel.php:234
+msgid "Sender's Email Address"
+msgstr ""
+
+#: inc/options-panel.php:245
+msgid "Author Email Subject"
+msgstr ""
+
+#: inc/options-panel.php:246
+msgid ""
+"Subject of the email you want sent to authors. The report will also be "
+"appended."
+msgstr ""
+
+#: inc/options-panel.php:256
+msgid "Author Email Content"
+msgstr ""
+
+#: inc/options-panel.php:259
+#. translators: 1: %AUTHOR%, 2: %POSTURL%, 3: %EDITURL%
+msgid ""
+"This will be sent to the author of the post. The report will also be "
+"appended. %1$s will be replaced by author name %2$s will be replaced with a "
+"link to the post %3$s will be replaced with a link to the edit page"
+msgstr ""
+
+#: inc/options-panel.php:273
+msgid "Admin Email Subject"
+msgstr ""
+
+#: inc/options-panel.php:274
+msgid ""
+"Subject of the email you want sent to admins. The report will also be "
+"appended."
+msgstr ""
+
+#: inc/options-panel.php:284
+msgid "Admin Email Content"
+msgstr ""
+
+#: inc/options-panel.php:287
+#. translators: 1: %POSTURL%, 2: %EDITURL%, 3: %REPORTSURL%
+msgid ""
+"This will be sent to the blog admins. The report will also be appended. "
+"%1$s will be replaced with a link to the post %2$s will be replaced with a "
+"link to the edit page %3$s will be replaced by a link to reports page"
+msgstr ""
+
+#: inc/options-panel.php:301
+msgid "Minimum access level required to view the reports"
+msgstr ""
+
+#: inc/options-panel.php:302
+msgid ""
+"What's the minimum role that a logged in user needs to have in order to "
+"view reports"
+msgstr ""
+
+#: inc/options-panel.php:306 inc/options-panel.php:324
+msgid "Administrator"
+msgstr ""
+
+#: inc/options-panel.php:307 inc/options-panel.php:325
+msgid "Editor"
+msgstr ""
+
+#: inc/options-panel.php:308 inc/options-panel.php:326
+msgid "Author"
+msgstr ""
+
+#: inc/options-panel.php:309 inc/options-panel.php:327
+msgid "Contributor"
+msgstr ""
+
+#: inc/options-panel.php:310 inc/options-panel.php:328
+msgid "Subscriber"
+msgstr ""
+
+#: inc/options-panel.php:319
+msgid "Minimum access level required to change status of/delete reports"
+msgstr ""
+
+#: inc/options-panel.php:320
+msgid ""
+"What's the minimum role that a logged in user needs to have in order to "
+"manipulate reports"
+msgstr ""
+
+#: inc/options-panel.php:337
+msgid "Users must be logged in to report content"
+msgstr ""
+
+#: inc/options-panel.php:348
+msgid "Use Akismet to filter reports"
+msgstr ""
+
+#: inc/options-panel.php:349
+msgid "Akismet plugin is required for this feature."
+msgstr ""
+
+#: inc/options-panel.php:359
+msgid "Disabe metabox?"
+msgstr ""
+
+#: inc/options-panel.php:360
+msgid "Check if you don't want to display the metabox"
+msgstr ""
+
+#: inc/options-panel.php:370
+msgid "Don't save reports in database"
+msgstr ""
+
+#: inc/options-panel.php:371
+msgid "Check if you don't want to save reports in database"
+msgstr ""
+
+#: inc/options-panel.php:393
+msgid "Form Settings"
+msgstr ""
+
+#: inc/options-panel.php:394
+msgid "Integration Settings"
+msgstr ""
+
+#: inc/options-panel.php:395
+msgid "Email Settings"
+msgstr ""
+
+#: inc/options-panel.php:396
+msgid "Security Settings"
+msgstr ""
+
+#: inc/options-panel.php:397
+msgid "Other Settings"
+msgstr ""
+
+#: inc/options-panel.php:404
+msgid "Save Changes"
+msgstr ""
+
+#: inc/report-form.php:21
+msgid "Issue:"
+msgstr ""
+
+#: inc/report-form.php:33
+msgid "Your Name:"
+msgstr ""
+
+#: inc/report-form.php:45
+msgid "Your Email:"
+msgstr ""
+
+#: inc/report-form.php:61
+msgid "Details:"
+msgstr ""
+
+#: inc/reports-list.php:11 inc/reports-list.php:12 inc/reports-list.php:45
+msgid "Reports"
+msgstr ""
+
+#: report-content.php:89
+msgid ""
+"Copyright Infringement\n"
+"Spam\n"
+"Invalid Contents\n"
+"Broken Links"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Report Content"
+msgstr ""
+
+#: report-content.php:91
+msgid "Submit Report"
+msgstr ""
+
+#: report-content.php:103
+msgid "Your article has been flagged"
+msgstr ""
+
+#: report-content.php:106
+#. translators: 1: %AUTHOR%, 2: site name, 3: %POSTURL%, 4: %EDITURL%
+msgid ""
+"Hi %1$s,\n"
+"\n"
+"Your article on %2$s has been flagged.\n"
+"\n"
+"View the article: %3$s\n"
+"Edit the article: %4$s"
+msgstr ""
+
+#: report-content.php:112
+msgid "New report submitted"
+msgstr ""
+
+#: report-content.php:115
+#. translators: 1: site name, 2: %POSTURL%, 3: %EDITURL%, 4: %REPORTSURL%
+msgid ""
+"Hi admin,\n"
+"\n"
+"An article on your website %1$s has been flagged.\n"
+"\n"
+"View the article: %2$s\n"
+"Edit the article: %3$s\n"
+"View all reports: %4$s"
+msgstr ""
+
+#: report-content.php:322
+msgid "You missed a required field"
+msgstr ""
+
+#: report-content.php:328
+msgid "Email address invalid"
+msgstr ""
+
+#: report-content.php:346
+msgid "Your submission has been marked as spam by our filters"
+msgstr ""
+
+#: report-content.php:351
+msgid "An unexpected error occurred. Please try again later"
+msgstr ""
+
+#: report-content.php:357
+msgid "Report submitted successfully!"
+msgstr ""
+
+#: report-content.php:450
+#. translators: 1: login link
+msgid "To report this post you need to %1$s first."
+msgstr ""
+
+#: report-content.php:454
+msgid "Login"
+msgstr ""
+
+#: report-content.php:455
+msgid "login"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://wpgurus.net/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Inserts a secure form on specified pages so that your readers can report "
+"bugs, spam content and other problems."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Hassan Akhtar"
+msgstr ""
+
+#: inc/class-wprc-list-table.php:566
+msgctxt "paging"
+msgid "%1$s of %2$s"
+msgstr ""
